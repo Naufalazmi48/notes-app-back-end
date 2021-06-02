@@ -12,6 +12,7 @@
     },
     "rules": {
         "linebreak-style" : ["error", "windows"],
+        "no-underscore-dangle" : "off",
         "no-console" : "off",
         "eol-last" : "off"
     }
