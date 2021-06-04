@@ -11,7 +11,7 @@
         "ecmaVersion": 12
     },
     "rules": {
-        "linebreak-style" : ["error", "windows"],
+        "linebreak-style" : ["off", "windows"],
         "no-underscore-dangle" : "off",
         "no-console" : "off",
         "eol-last" : "off"
